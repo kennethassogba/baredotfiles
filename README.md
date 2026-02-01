@@ -98,7 +98,7 @@ config add -f ~/.config/nvim/lua
 
 Lors d'une nouvelle install :
 
-1. Cloner NvChad : `git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1`
+1. Cloner NvChad : `git clone https://github.com/NvChad/starter ~/.config/nvim`
 2. Restaurer les dotfiles (qui viendront remplir `lua`).
 3. Lancer `nvim` pour l'auto-installation.
 
