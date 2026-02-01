@@ -63,7 +63,7 @@ git clone --separate-git-dir=$HOME/.cfg git@github.com:kennethassogba/baredotfil
 
 4. Déployer les fichiers (écrase les fichiers par défaut) :
 ```
-cp -rv --backup $HOME/cfg-tmp/* $HOME/
+cp -rv --backup $HOME/cfg-tmp/. $HOME/
 rm -rf $HOME/cfg-tmp
 ```
 
