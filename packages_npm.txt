@@ -1,0 +1,3 @@
+@google/gemini-cli
+npm
+tree-sitter-cli
