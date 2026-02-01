@@ -45,8 +45,9 @@ config diff
 
 ## Installation sur une nouvelle machine
 
-1. Configurer l'alias :
+1. Installer git, neovim et configurer l'alias :
 ```
+sudo apt install git neovim
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 ```
 
